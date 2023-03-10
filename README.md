@@ -1,12 +1,19 @@
-Project Developers:
+# Immersive VR Reader
 
-Konstantin Victoria: Project Gutenberg API
+# Project Developers:
+- Konstantin Victoria: Project Gutenberg API
+- Robin Simpson: Bookshelf functionality with the API
+- Jay Chong: Level design and linkage
 
-Robin Simpson: Bookshelf functionality with the API
+# About
 
-Jay Chong: Level design and linkage
+https://itch.io/jam/mc-vr-hackathon/rate/1962666
 
-Lead Submitter: Jay Chong
+
+
+https://user-images.githubusercontent.com/80879010/224447763-3830da06-8b8e-458b-b216-2c71c5c10f63.mp4
+
+
 
 This is a project created using Roblox Studios. By using free ROBLOX assets for world building, and the Project Gutenberg API, we created a book reader in VR. You can read your book in VR, all the while enjoying the scenery of three different worlds. To get started, join the lobby world found under User Mitsukiyoi creations. (https://www.roblox.com/games/12716760929/). After you load in, head to the center then pick your desired world based on the the demo environment given. Then stand in the glowing circle and wait to be teleported. Once you are there, pick a book, pick a location, and start reading! If you want to change locations then head to a designated glowing circle or door to head back to the lobby where you can go to the next world.
 
@@ -14,8 +21,8 @@ Since we used Roblox Studios to develop our VR app, we were unable to use Git or
 
 All assets used were free and public resources. API was grabbed from https://www.gutenberg.org/, and most terrain assets were available via the Roblox marketplace. Music is also provided for free at https://create.roblox.com/marketplace/soundeffects. Game logo image was generated using stable diffusion AI​
 
+# Dev History
 SCRIPT HISTORY IMAGES
-
 ROBIN SIMPSON BOOKSHELF FUNCTIONALITY
 ![image](https://user-images.githubusercontent.com/112515656/224269547-253681e7-308c-4009-9cc7-93a02d808978.png)
 ![image](https://user-images.githubusercontent.com/112515656/224269561-6c95be49-7319-4047-8fdc-245484a454dd.png)
@@ -33,5 +40,3 @@ KONSTANTIN VICTORIA GET BOOK
 ![image](https://user-images.githubusercontent.com/112515656/224270633-f391535a-096f-40c6-8494-261fd69703d1.png)
 KONSTANTIN VICTORIA SEARCH BOOK
 ![image](https://user-images.githubusercontent.com/112515656/224270813-96571aed-c2c7-4d61-952b-d99a788bb9a9.png)
-
-THANK YOU FOR READING.
